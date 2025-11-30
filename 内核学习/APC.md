@@ -216,7 +216,11 @@ KeStackAttachProcess函数
 
 
 
+## APC插入过程逆向
 
+API：
+
+- KeInsertQueueApc
 
 
 
